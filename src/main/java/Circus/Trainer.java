@@ -1,3 +1,7 @@
+import Animal.Animal;
+import Animal.Bird;
+import Animal.Duck;
+
 public class Trainer {
     public static void main(String[] args) {
         Duck d = new Duck();

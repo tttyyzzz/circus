@@ -1,3 +1,10 @@
+import Animal.Animal;
+import Animal.Parrot;
+import Animal.Duck;
+import stuff.Cannon;
+import stuff.Equipment;
+import stuff.Ladder;
+
 public class Circus {
     private static Animal[] animals = {
             new Duck(),
